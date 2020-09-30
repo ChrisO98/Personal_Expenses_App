@@ -1,6 +1,7 @@
 personal_expenses_app
 
-A new Flutter project.
+A new Flutter project that is an Android application for personal expenses.
+Does not save expenses to storage device.
 
 ## Getting Started
 
