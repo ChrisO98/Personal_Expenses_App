@@ -1,4 +1,4 @@
-# section_4_personal_expenses_app
+personal_expenses_app
 
 A new Flutter project.
 
